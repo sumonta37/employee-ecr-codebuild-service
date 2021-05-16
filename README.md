@@ -1,0 +1,1 @@
+Project is used for testing AWS codebuild  in order to push dockimage to ECR
